@@ -1,0 +1,16 @@
+import math
+
+print("Math")
+print(math.factorial(5))
+print(math.floor(5.9))
+print(math.ceil(5.1))
+print(math.sqrt(16))
+print(math.log(16))
+print(math.log10(16))
+print(math.log2(16))
+print(math.pi)
+print(math.e)
+print(math.sin(30))
+print(math.cos(30))
+print(math.tan(30))
+print(math.degrees(30))

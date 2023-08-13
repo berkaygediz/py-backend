@@ -1,0 +1,4 @@
+birden fazla yazdirma: print(3*deger)
+** sayısı arttikca üstü eklenir (2 üssü 4 gibi)
+''' ile ''' blogu ifade eder.
+x = input() ile girdi alma
